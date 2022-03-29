@@ -3,7 +3,7 @@ package com.kira.demo;
 public interface UserDao {
 	void addUser();
 	
-	//张三又加了aa方法
+	//old aa method
 	void aa();
 	
 	//somebody add sth.
