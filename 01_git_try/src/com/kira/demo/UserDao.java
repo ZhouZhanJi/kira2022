@@ -5,4 +5,7 @@ public interface UserDao {
 	
 	//张三又加了aa方法
 	void aa();
+	
+	//somebody add sth.
+	void bb();
 }
