@@ -1,6 +1,6 @@
 package com.kira.demo;
 
 public interface UserDao {
-	//ÐÂ·ÖÖ§
+	//new branch
 	void newBranch();
 }
