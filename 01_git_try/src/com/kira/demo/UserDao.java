@@ -1,6 +1,7 @@
 package com.kira.demo;
 
 public interface UserDao {
+
 	void addUser();
 	
 	//old aa method
@@ -8,4 +9,8 @@ public interface UserDao {
 	
 	//somebody add sth.
 	void bb();
+
+	//new branch
+	void newBranch();
+
 }
